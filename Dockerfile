@@ -1,0 +1,1 @@
+FROM permitio/pdp:latest
